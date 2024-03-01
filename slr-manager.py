@@ -78,7 +78,7 @@ def merge_bibtex_to_csv(folder_path):
             writer.writerows(duplicate_entries)
 
 
-def compare_and_save_unique_entries(file1_path, file2_path, output_path):
+def compare_and_save_unique_entries(file1_path, file2_path):
     unique_titles = set()
     unique_entries = []
 
@@ -98,7 +98,7 @@ def compare_and_save_unique_entries(file1_path, file2_path, output_path):
     print("* Found " + str(len(unique_entries)) + " unique entries.")
 
     fieldnames = reader2.fieldnames  # Assuming both files have the same structure
-    with open(output_path, 'w', newline='') as output_file:
+    with open('merged_csv.csv', 'w', newline='') as output_file:
         writer = csv.DictWriter(output_file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(unique_entries)

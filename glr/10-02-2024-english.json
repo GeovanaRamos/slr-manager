@@ -1,0 +1,1653 @@
+{
+  "search_metadata": {
+    "id": "65c7a9c92236e290cb6ab08d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fc4fcf37a7e5f4f0/65c7a9c92236e290cb6ab08d.json",
+    "created_at": "2024-02-10 16:52:25 UTC",
+    "processed_at": "2024-02-10 16:52:25 UTC",
+    "google_url": "https://www.google.com/search?q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&oq=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&hl=en&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/fc4fcf37a7e5f4f0/65c7a9c92236e290cb6ab08d.html",
+    "total_time_taken": 5.48
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "(\"privacy policy\" OR \"privacy statement\" OR \"privacy notice\" ) AND chatbot",
+    "google_domain": "google.com",
+    "hl": "en",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "(\"privacy policy\" OR \"privacy statement\" OR \"privacy notice\" ) AND chatbot",
+    "total_results": 135000000,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "Customer Data Privacy",
+      "link": "https://segment.com/customer-data-platform/",
+      "displayed_link": "https://www.segment.com",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi3gJ_2naGEAxX8ckcBHdx8ALEYABAAGgJxdQ&ae=2&gclid=EAIaIQobChMIt4Cf9p2hhAMV_HJHAR3cfACxEAMYASAAEgKz0PD_BwE&sig=AOD64_2f2k8WpPTXPstmU8gpJGxTVkmSBA&q&adurl",
+      "source": "segment.com",
+      "sitelinks": [
+        {
+          "title": "The New CDP Report 2023",
+          "link": "https://segment.com/the-cdp-report/"
+        },
+        {
+          "title": "Try Segment for Free",
+          "link": "https://segment.com/signup/"
+        },
+        {
+          "title": "Website Personalization",
+          "link": "https://segment.com/marketing/"
+        }
+      ]
+    }
+  ],
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?num=100&sca_esv=1dc58d8ee0f56796&hl=en&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&tbm=isch&source=univ&fir=bY2M9ErW9exfQM%252CNLOPU2aj_lMiEM%252C_%253BJf_CqY6T2VKxlM%252CRktdBclR5dQ2yM%252C_%253BVtS8coKPRAItKM%252CNLOPU2aj_lMiEM%252C_%253BqhxqKKt34u2IrM%252CRktdBclR5dQ2yM%252C_%253B5a2GIDLRGwxLUM%252CpgcItCkg2YFfEM%252C_%253BogF8LRhp6xMsVM%252CsdGgO_FZI7nCCM%252C_%253BIlOJRBBC-7NB5M%252Cb6xqf9SGQ6yT-M%252C_%253BBiXK-0SJtxk-TM%252CGlK_EbqZUuJMOM%252C_%253BPrNeApkJAJ_4JM%252CJVFQcOACsswm7M%252C_%253BpHBXfswvddhL-M%252CYG6et0ED1nRorM%252C_&usg=AI4_-kQr1AC1KiNo7dw9N4QWAYElHFEAIw&sa=X&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQ9AF6BAgxEAA#imgrc=bY2M9ErW9exfQM",
+      "source": "https://www.xenioo.com/4-effective-way-to-deal-with-your-chatbot-privacy-and-data-safeness/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsTVC-ofO6_AAwin817GRwgLaIPEQOboYHao6wjjln98dJSiq2UfnU9K0aQ&s",
+      "original": "https://gblobscdn.gitbook.com/assets%2F-LdPD9c4fJbXSAZcPHt9%2F-LfcsrMGqsGmS38L7y2_%2F-LfctHyAqss5iAA7eE_j%2Fimage.png?alt=media&token=bc4103f3-f141-4a83-a6a6-a7b01c14c403",
+      "title": "4 Effective Way To Deal With Your Chatbot Privacy And Data ...",
+      "source_name": "Xenioo"
+    },
+    {
+      "link": "https://www.google.com/search?num=100&sca_esv=1dc58d8ee0f56796&hl=en&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&tbm=isch&source=univ&fir=bY2M9ErW9exfQM%252CNLOPU2aj_lMiEM%252C_%253BJf_CqY6T2VKxlM%252CRktdBclR5dQ2yM%252C_%253BVtS8coKPRAItKM%252CNLOPU2aj_lMiEM%252C_%253BqhxqKKt34u2IrM%252CRktdBclR5dQ2yM%252C_%253B5a2GIDLRGwxLUM%252CpgcItCkg2YFfEM%252C_%253BogF8LRhp6xMsVM%252CsdGgO_FZI7nCCM%252C_%253BIlOJRBBC-7NB5M%252Cb6xqf9SGQ6yT-M%252C_%253BBiXK-0SJtxk-TM%252CGlK_EbqZUuJMOM%252C_%253BPrNeApkJAJ_4JM%252CJVFQcOACsswm7M%252C_%253BpHBXfswvddhL-M%252CYG6et0ED1nRorM%252C_&usg=AI4_-kQr1AC1KiNo7dw9N4QWAYElHFEAIw&sa=X&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQ9AF6BAhBEAA#imgrc=Jf_CqY6T2VKxlM",
+      "source": "https://botscrew.com/blog/how-to-make-your-chatbot-gdpr-compliant/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIRJ9_n5wI7oRT1ErGvGZumqXtj22zVyjBXIdtg_TkwP8XNpP-CrkCaqpIFw&s",
+      "original": "https://botscrew.com/wp-content/uploads/2018/10/GDPR-Menu.png",
+      "title": "How To Make Your Chatbot GDPR Compliant - BotsCrew",
+      "source_name": "Botscrew"
+    },
+    {
+      "link": "https://www.google.com/search?num=100&sca_esv=1dc58d8ee0f56796&hl=en&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&tbm=isch&source=univ&fir=bY2M9ErW9exfQM%252CNLOPU2aj_lMiEM%252C_%253BJf_CqY6T2VKxlM%252CRktdBclR5dQ2yM%252C_%253BVtS8coKPRAItKM%252CNLOPU2aj_lMiEM%252C_%253BqhxqKKt34u2IrM%252CRktdBclR5dQ2yM%252C_%253B5a2GIDLRGwxLUM%252CpgcItCkg2YFfEM%252C_%253BogF8LRhp6xMsVM%252CsdGgO_FZI7nCCM%252C_%253BIlOJRBBC-7NB5M%252Cb6xqf9SGQ6yT-M%252C_%253BBiXK-0SJtxk-TM%252CGlK_EbqZUuJMOM%252C_%253BPrNeApkJAJ_4JM%252CJVFQcOACsswm7M%252C_%253BpHBXfswvddhL-M%252CYG6et0ED1nRorM%252C_&usg=AI4_-kQr1AC1KiNo7dw9N4QWAYElHFEAIw&sa=X&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQ9AF6BAhZEAA#imgrc=VtS8coKPRAItKM",
+      "source": "https://www.xenioo.com/4-effective-way-to-deal-with-your-chatbot-privacy-and-data-safeness/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0ALWw134vopmTzQhEIw3c496X5nTwM-co2uqOy_16WuqiAFNfslmyxOQKQ&s",
+      "original": "https://www.xenioo.com/wp-content/uploads/2020/10/image.png",
+      "title": "4 Effective Way To Deal With Your Chatbot Privacy And Data ...",
+      "source_name": "Xenioo"
+    }
+  ],
+  "inline_images_suggested_searches": [
+    {
+      "name": "gdpr compliance",
+      "link": "https://www.google.com/search?num=100&sca_esv=1dc58d8ee0f56796&hl=en&q=(%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+)+AND+chatbot&tbm=isch&chips=q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:gdpr+compliance:7eJ3qyhqHKo%3D&usg=AI4_-kRXw_tgYfk6DaO3iIrQjQsDVQeaYg&sa=X&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQgIoDKAB6BAhbEBA",
+      "chips": "q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:gdpr+compliance:7eJ3qyhqHKo%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPyJMFcQ1edT1g3ieWpSIPmz_5rrI-_4DGym9Ikshp0M60pcl_Br3yh49zg&s"
+    },
+    {
+      "name": "gdpr compliant",
+      "link": "https://www.google.com/search?num=100&sca_esv=1dc58d8ee0f56796&hl=en&q=(%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+)+AND+chatbot&tbm=isch&chips=q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:gdpr+compliant:2HUvzH5XcKQ%3D&usg=AI4_-kT8WX1RsgJZU_shXRofw2oLpdcmNQ&sa=X&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQgIoDKAF6BAhbEBQ",
+      "chips": "q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:gdpr+compliant:2HUvzH5XcKQ%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu_xdqSOLQyfDnu-XzqhRSMoKyJK-oq3fcM2SM9hFgvF5Bx-mP6HkjTWM8eg&s"
+    },
+    {
+      "name": "chatbot gdpr",
+      "link": "https://www.google.com/search?num=100&sca_esv=1dc58d8ee0f56796&hl=en&q=(%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+)+AND+chatbot&tbm=isch&chips=q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:chatbot+gdpr:hTtd8sONmRQ%3D&usg=AI4_-kRYtTrNhxDkNvS8gEhzws7ObjENaA&sa=X&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQgIoDKAJ6BAhbEBg",
+      "chips": "q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:chatbot+gdpr:hTtd8sONmRQ%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaisQbx0_GtrcmZ4ScQhrGrXSGf-NYEAHM8mz_yni-NQ8jXTfiJvvMiqYc_g&s"
+    },
+    {
+      "name": "chatbot security",
+      "link": "https://www.google.com/search?num=100&sca_esv=1dc58d8ee0f56796&hl=en&q=(%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+)+AND+chatbot&tbm=isch&chips=q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:chatbot+security:s_tCEESJUyI%3D&usg=AI4_-kQ4ynsPnyjtJcfxGXO5Vik6vK-mxA&sa=X&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQgIoDKAN6BAhbEBw",
+      "chips": "q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:chatbot+security:s_tCEESJUyI%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomEsbGLLqffoKTyAz2Y9vRAcmMwNeXBMv21Zj-DlEwoJMYt2aaa9P7mxbhw&s"
+    },
+    {
+      "name": "data protection",
+      "link": "https://www.google.com/search?num=100&sca_esv=1dc58d8ee0f56796&hl=en&q=(%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+)+AND+chatbot&tbm=isch&chips=q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:data+protection:tSetbnsJ9FM%3D&usg=AI4_-kSIjqxMBulrm4_cJSC3kPl1Kf-v1Q&sa=X&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQgIoDKAR6BAhbECA",
+      "chips": "q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:data+protection:tSetbnsJ9FM%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgzLGNpHqzQ5CJdv6onp6ixSsyATeAL2sQ_HTBT1SqdrHrEW_lhxMLdRT7lA&s"
+    },
+    {
+      "name": "conversational ai",
+      "link": "https://www.google.com/search?num=100&sca_esv=1dc58d8ee0f56796&hl=en&q=(%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+)+AND+chatbot&tbm=isch&chips=q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:conversational+ai:xAeuBne8kDQ%3D&usg=AI4_-kTPuQHnTQW6y3Ehze8bZcn1HxiboA&sa=X&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQgIoDKAV6BAhbECQ",
+      "chips": "q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:conversational+ai:xAeuBne8kDQ%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWsBx-zVD210LRC-iPt7LHvfbyVX8UHT0xa3U3xeB5y0IOlp-jMeiIoZNsg&s"
+    },
+    {
+      "name": "chatbot builder",
+      "link": "https://www.google.com/search?num=100&sca_esv=1dc58d8ee0f56796&hl=en&q=(%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+)+AND+chatbot&tbm=isch&chips=q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:chatbot+builder:Kcq9Kcvzx7c%3D&usg=AI4_-kSn60BLCziD-VnCR-24Sg4LYWSteA&sa=X&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQgIoDKAZ6BAhbECg",
+      "chips": "q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:chatbot+builder:Kcq9Kcvzx7c%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMnsy9LxK4V39v4GFawSgzIwtFd9meKYvaO4f9i2qSeadBv_Vbhj3g6mB_Q&s"
+    },
+    {
+      "name": "consumer facing",
+      "link": "https://www.google.com/search?num=100&sca_esv=1dc58d8ee0f56796&hl=en&q=(%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+)+AND+chatbot&tbm=isch&chips=q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:consumer+facing&usg=AI4_-kStLGlC4oO1zwSemEsOqTSDoYlpEQ&sa=X&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQgIoDKAd6BAhbECw",
+      "chips": "q:privacy+policy+privacy+statement+privacy+notice+and+chatbot,online_chips:consumer+facing",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is an example of a chatbot disclaimer?",
+      "snippet": "While we strive to provide accurate information through the AI chatbot, we cannot guarantee the accuracy, completeness, or up-to-date nature of the information provided. We recommend that you use responses as a starting point and verify the information in the linked public documentation sources.",
+      "title": "AI Chatbot Disclaimer",
+      "link": "https://cloud.docs.tamr.com/page/ai-chatbot-disclaimer#:~:text=While%20we%20strive%20to%20provide,the%20linked%20public%20documentation%20sources.",
+      "displayed_link": "https://cloud.docs.tamr.com › page › ai-chatbot-disclaimer",
+      "source_logo": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/ddd4f785118b7afd42d975014cd60d541387e7109fa6d0fa405eb94cf51ba9b7.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJUblZYYUdOc1lVSklWM1JsY21neE5rRnNORkYwTjJac2RUZDVaRE5NZFdOZmVVTjJkMHhzYXpkQlNGVjNZMDlMVEdKd09ESlhMVU5NZEZwNlEycDJVRFZYTjJaU2JtNUVUbWxGRWhaNmNXNUlXbU10T1VOelEyVndkRkZRYUVsRGNFTkJHaUpCVUZob2JUVmhSVkpNU2xSMlZsTkVXRk5oYW0xa2NHNW5VbFZZTjFodmFERkIiLCJmY3YiOiIzIiwiZWkiOiJ6cW5IWmMtOUNzQ2VwdFFQaElDcENBIiwicWMiOiJjLU95TGlqS0xFdE1ybFFveU1fSkJGRlFibkZKWWtscWJtcGVDVndrTDc4a016bFZJVEV2UlNFNUk3RWtLYjlFZ0tIMlZiNmxQUUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgYW4gZXhhbXBsZSBvZiBhIGNoYXRib3QgZGlzY2xhaW1lcj8iLCJsayI6IkdpcDNhR0YwSUdseklHRnVJR1Y0WVcxd2JHVWdiMllnWVNCamFHRjBZbTkwSUdScGMyTnNZV2x0WlhJIiwiYnMiOiJjLU9LNDlJT3owZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRTRlJJQm9vbjVaY29wR1FXSi1ja1p1YW1GdGxMM0hZdzBwSFNLaWRhQjFjd2x6N1lfTVNpVklXU2pGU0ZsTVNTUklXQ29zeXl4T1JLb0JIRnBhbkZDdVdaSlJrd3ZjWDJFdGVUakdTbHBPRm1ZV3JnQ3VOU2R3U2FsNXlmVjVaYVZKeFlrcG1maDJvS1JFTkpxcjNFY1Q0akRTbTFSS0pVYzNseWFjSUNBLVJXbUswRi1UbVpRQXJpeGZ6Y2d0SVNVRkRjZHpLU2xCS0g4ZEVVQ3pBQ0FBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJUblZYYUdOc1lVSklWM1JsY21neE5rRnNORkYwTjJac2RUZDVaRE5NZFdOZmVVTjJkMHhzYXpkQlNGVjNZMDlMVEdKd09ESlhMVU5NZEZwNlEycDJVRFZYTjJaU2JtNUVUbWxGRWhaNmNXNUlXbU10T1VOelEyVndkRkZRYUVsRGNFTkJHaUpCVUZob2JUVmhSVkpNU2xSMlZsTkVXRk5oYW0xa2NHNW5VbFZZTjFodmFERkIiLCJmY3YiOiIzIiwiZWkiOiJ6cW5IWmMtOUNzQ2VwdFFQaElDcENBIiwicWMiOiJjLU95TGlqS0xFdE1ybFFveU1fSkJGRlFibkZKWWtscWJtcGVDVndrTDc4a016bFZJVEV2UlNFNUk3RWtLYjlFZ0tIMlZiNmxQUUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgYW4gZXhhbXBsZSBvZiBhIGNoYXRib3QgZGlzY2xhaW1lcj8iLCJsayI6IkdpcDNhR0YwSUdseklHRnVJR1Y0WVcxd2JHVWdiMllnWVNCamFHRjBZbTkwSUdScGMyTnNZV2x0WlhJIiwiYnMiOiJjLU9LNDlJT3owZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRTRlJJQm9vbjVaY29wR1FXSi1ja1p1YW1GdGxMM0hZdzBwSFNLaWRhQjFjd2x6N1lfTVNpVklXU2pGU0ZsTVNTUklXQ29zeXl4T1JLb0JIRnBhbkZDdVdaSlJrd3ZjWDJFdGVUakdTbHBPRm1ZV3JnQ3VOU2R3U2FsNXlmVjVaYVZKeFlrcG1maDJvS1JFTkpxcjNFY1Q0akRTbTFSS0pVYzNseWFjSUNBLVJXbUswRi1UbVpRQXJpeGZ6Y2d0SVNVRkRjZHpLU2xCS0g4ZEVVQ3pBQ0FBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "What are the data privacy issues with chatbots?",
+      "snippet": "Here are some key ethical risks that must be addressed: Data Privacy - Chatbots require access to user data to function, raising concerns around data collection practices and privacy protections. Security - Chatbots could expose sensitive user data if adequate cybersecurity measures aren't in place.",
+      "title": "The Ethics of Chatbots: Privacy and Data Security Concerns - LinkedIn",
+      "date": "Sep 6, 2023",
+      "link": "https://www.linkedin.com/pulse/ethics-chatbots-privacy-data-security-concerns-folorunso#:~:text=Here%20are%20some%20key%20ethical,measures%20aren't%20in%20place.",
+      "displayed_link": "https://www.linkedin.com › pulse › ethics-chatbots-priva...",
+      "source_logo": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/ddd4f785118b7afd42d975014cd60d5487668020223eaa0b842ed813ebe4e5a4.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJUblZYYUdOc1lVSklWM1JsY21neE5rRnNORkYwTjJac2RUZDVaRE5NZFdOZmVVTjJkMHhzYXpkQlNGVjNZMDlMVEdKd09ESlhMVU5NZEZwNlEycDJVRFZYTjJaU2JtNUVUbWxGRWhaNmNXNUlXbU10T1VOelEyVndkRkZRYUVsRGNFTkJHaUpCVUZob2JUVmhSVkpNU2xSMlZsTkVXRk5oYW0xa2NHNW5VbFZZTjFodmFERkIiLCJmY3YiOiIzIiwiZWkiOiJ6cW5IWmMtOUNzQ2VwdFFQaElDcENBIiwicWMiOiJjLU95TGlqS0xFdE1ybFFveU1fSkJGRlFibkZKWWtscWJtcGVDVndrTDc4a016bFZJVEV2UlNFNUk3RWtLYjlFZ0tIMlZiNmxQUUEiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBkYXRhIHByaXZhY3kgaXNzdWVzIHdpdGggY2hhdGJvdHM/IiwibGsiOiJHaHRqYUdGMFltOTBJR1JoZEdFZ2NISnBkbUZqZVNCcGMzTjFaWE0iLCJicyI6ImMtT0s0OUlPejBnc1VjZ3NWa2pNVTBpdFNNd3R5RWxWeUU5VFNGUklCb29uNVpjb3BHUVdKLWNrWnVhbUZ0bEwzSFl3MHBIU0tpZGFCMWN3bHo3WV9NU2lWSVdTakZTRmxNU1NSSVdDb3N5eXhPUktvQkhGcGFuRkN1V1pKUmt3dmNYMkV0ZVRqR1NscE9GbVlXcmdDdU5TZHdTYWw1eWZWNVphVkp4WWtwbWZoMm9LUkVOSnFyM0VjVDRqRFNtMVJLSlVjM2x5YWNJQ0EtUldtSzBGLVRtWlFBcml4ZnpjZ3RJU1VGRGNkektTbEJLSDhkRVVDekFDQUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJUblZYYUdOc1lVSklWM1JsY21neE5rRnNORkYwTjJac2RUZDVaRE5NZFdOZmVVTjJkMHhzYXpkQlNGVjNZMDlMVEdKd09ESlhMVU5NZEZwNlEycDJVRFZYTjJaU2JtNUVUbWxGRWhaNmNXNUlXbU10T1VOelEyVndkRkZRYUVsRGNFTkJHaUpCVUZob2JUVmhSVkpNU2xSMlZsTkVXRk5oYW0xa2NHNW5VbFZZTjFodmFERkIiLCJmY3YiOiIzIiwiZWkiOiJ6cW5IWmMtOUNzQ2VwdFFQaElDcENBIiwicWMiOiJjLU95TGlqS0xFdE1ybFFveU1fSkJGRlFibkZKWWtscWJtcGVDVndrTDc4a016bFZJVEV2UlNFNUk3RWtLYjlFZ0tIMlZiNmxQUUEiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBkYXRhIHByaXZhY3kgaXNzdWVzIHdpdGggY2hhdGJvdHM%2FIiwibGsiOiJHaHRqYUdGMFltOTBJR1JoZEdFZ2NISnBkbUZqZVNCcGMzTjFaWE0iLCJicyI6ImMtT0s0OUlPejBnc1VjZ3NWa2pNVTBpdFNNd3R5RWxWeUU5VFNGUklCb29uNVpjb3BHUVdKLWNrWnVhbUZ0bEwzSFl3MHBIU0tpZGFCMWN3bHo3WV9NU2lWSVdTakZTRmxNU1NSSVdDb3N5eXhPUktvQkhGcGFuRkN1V1pKUmt3dmNYMkV0ZVRqR1NscE9GbVlXcmdDdU5TZHdTYWw1eWZWNVphVkp4WWtwbWZoMm9LUkVOSnFyM0VjVDRqRFNtMVJLSlVjM2x5YWNJQ0EtUldtSzBGLVRtWlFBcml4ZnpjZ3RJU1VGRGNkektTbEJLSDhkRVVDekFDQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Are conversations with chatbot private?",
+      "snippet": "Chatbot conversations can be private, but this largely depends on the chatbot's design and the privacy policies of the company that operates it. Reputable chatbots are typically designed with privacy in mind, incorporating encryption and secure data handling practices.",
+      "title": "Chatbot Conversations Privacy by Mohamed Soufan - LinkedIn",
+      "date": "Nov 8, 2023",
+      "link": "https://www.linkedin.com/pulse/chatbot-conversations-privacy-mohamed-soufan-yh7ef#:~:text=Chatbot%20conversations%20can%20be%20private,and%20secure%20data%20handling%20practices.",
+      "displayed_link": "https://www.linkedin.com › pulse › chatbot-conversation...",
+      "source_logo": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/ddd4f785118b7afd42d975014cd60d54a5b24cd3c84f2ba1edaf459c9705fd25.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJUblZYYUdOc1lVSklWM1JsY21neE5rRnNORkYwTjJac2RUZDVaRE5NZFdOZmVVTjJkMHhzYXpkQlNGVjNZMDlMVEdKd09ESlhMVU5NZEZwNlEycDJVRFZYTjJaU2JtNUVUbWxGRWhaNmNXNUlXbU10T1VOelEyVndkRkZRYUVsRGNFTkJHaUpCVUZob2JUVmhSVkpNU2xSMlZsTkVXRk5oYW0xa2NHNW5VbFZZTjFodmFERkIiLCJmY3YiOiIzIiwiZWkiOiJ6cW5IWmMtOUNzQ2VwdFFQaElDcENBIiwicWMiOiJjLU95TGlqS0xFdE1ybFFveU1fSkJGRlFibkZKWWtscWJtcGVDVndrTDc4a016bFZJVEV2UlNFNUk3RWtLYjlFZ0tIMlZiNmxQUUEiLCJxdWVzdGlvbiI6IkFyZSBjb252ZXJzYXRpb25zIHdpdGggY2hhdGJvdCBwcml2YXRlPyIsImxrIjoiR2laaGNtVWdZMjl1ZG1WeWMyRjBhVzl1Y3lCM2FYUm9JR05vWVhSaWIzUWdjSEpwZG1GMFpRIiwiYnMiOiJjLU9LNDlJT3owZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRTRlJJQm9vbjVaY29wR1FXSi1ja1p1YW1GdGxMM0hZdzBwSFNLaWRhQjFjd2x6N1lfTVNpVklXU2pGU0ZsTVNTUklXQ29zeXl4T1JLb0JIRnBhbkZDdVdaSlJrd3ZjWDJFdGVUakdTbHBPRm1ZV3JnQ3VOU2R3U2FsNXlmVjVaYVZKeFlrcG1maDJvS1JFTkpxcjNFY1Q0akRTbTFSS0pVYzNseWFjSUNBLVJXbUswRi1UbVpRQXJpeGZ6Y2d0SVNVRkRjZHpLU2xCS0g4ZEVVQ3pBQ0FBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJUblZYYUdOc1lVSklWM1JsY21neE5rRnNORkYwTjJac2RUZDVaRE5NZFdOZmVVTjJkMHhzYXpkQlNGVjNZMDlMVEdKd09ESlhMVU5NZEZwNlEycDJVRFZYTjJaU2JtNUVUbWxGRWhaNmNXNUlXbU10T1VOelEyVndkRkZRYUVsRGNFTkJHaUpCVUZob2JUVmhSVkpNU2xSMlZsTkVXRk5oYW0xa2NHNW5VbFZZTjFodmFERkIiLCJmY3YiOiIzIiwiZWkiOiJ6cW5IWmMtOUNzQ2VwdFFQaElDcENBIiwicWMiOiJjLU95TGlqS0xFdE1ybFFveU1fSkJGRlFibkZKWWtscWJtcGVDVndrTDc4a016bFZJVEV2UlNFNUk3RWtLYjlFZ0tIMlZiNmxQUUEiLCJxdWVzdGlvbiI6IkFyZSBjb252ZXJzYXRpb25zIHdpdGggY2hhdGJvdCBwcml2YXRlPyIsImxrIjoiR2laaGNtVWdZMjl1ZG1WeWMyRjBhVzl1Y3lCM2FYUm9JR05vWVhSaWIzUWdjSEpwZG1GMFpRIiwiYnMiOiJjLU9LNDlJT3owZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRTRlJJQm9vbjVaY29wR1FXSi1ja1p1YW1GdGxMM0hZdzBwSFNLaWRhQjFjd2x6N1lfTVNpVklXU2pGU0ZsTVNTUklXQ29zeXl4T1JLb0JIRnBhbkZDdVdaSlJrd3ZjWDJFdGVUakdTbHBPRm1ZV3JnQ3VOU2R3U2FsNXlmVjVaYVZKeFlrcG1maDJvS1JFTkpxcjNFY1Q0akRTbTFSS0pVYzNseWFjSUNBLVJXbUswRi1UbVpRQXJpeGZ6Y2d0SVNVRkRjZHpLU2xCS0g4ZEVVQ3pBQ0FBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "What is the privacy policy of a computer?",
+      "snippet": "A privacy policy should specify any personally identifiable information (PII) that is gathered, such as name, address and credit card number, as well as other information like order history, browsing habits, uploads and downloads. The policy should also explain if data can be left on a user's computer, such as cookies.",
+      "title": "What is privacy policy? | Definition from TechTarget",
+      "link": "https://www.techtarget.com/whatis/definition/privacy-policy#:~:text=A%20privacy%20policy%20should%20specify,user's%20computer%2C%20such%20as%20cookies.",
+      "displayed_link": "https://www.techtarget.com › whatis › privacy-policy",
+      "source_logo": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/ddd4f785118b7afd42d975014cd60d545af02040323bf965c36c2d1b509c86c1.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJUblZYYUdOc1lVSklWM1JsY21neE5rRnNORkYwTjJac2RUZDVaRE5NZFdOZmVVTjJkMHhzYXpkQlNGVjNZMDlMVEdKd09ESlhMVU5NZEZwNlEycDJVRFZYTjJaU2JtNUVUbWxGRWhaNmNXNUlXbU10T1VOelEyVndkRkZRYUVsRGNFTkJHaUpCVUZob2JUVmhSVkpNU2xSMlZsTkVXRk5oYW0xa2NHNW5VbFZZTjFodmFERkIiLCJmY3YiOiIzIiwiZWkiOiJ6cW5IWmMtOUNzQ2VwdFFQaElDcENBIiwicWMiOiJjLU95TGlqS0xFdE1ybFFveU1fSkJGRlFibkZKWWtscWJtcGVDVndrTDc4a016bFZJVEV2UlNFNUk3RWtLYjlFZ0tIMlZiNmxQUUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHByaXZhY3kgcG9saWN5IG9mIGEgY29tcHV0ZXI/IiwibGsiOiJHaGRqYjIxd2RYUmxjaUJ3Y21sMllXTjVJSEJ2YkdsamVRIiwiYnMiOiJjLU9LNDlJT3owZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRTRlJJQm9vbjVaY29wR1FXSi1ja1p1YW1GdGxMM0hZdzBwSFNLaWRhQjFjd2x6N1lfTVNpVklXU2pGU0ZsTVNTUklXQ29zeXl4T1JLb0JIRnBhbkZDdVdaSlJrd3ZjWDJFdGVUakdTbHBPRm1ZV3JnQ3VOU2R3U2FsNXlmVjVaYVZKeFlrcG1maDJvS1JFTkpxcjNFY1Q0akRTbTFSS0pVYzNseWFjSUNBLVJXbUswRi1UbVpRQXJpeGZ6Y2d0SVNVRkRjZHpLU2xCS0g4ZEVVQ3pBQ0FBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJUblZYYUdOc1lVSklWM1JsY21neE5rRnNORkYwTjJac2RUZDVaRE5NZFdOZmVVTjJkMHhzYXpkQlNGVjNZMDlMVEdKd09ESlhMVU5NZEZwNlEycDJVRFZYTjJaU2JtNUVUbWxGRWhaNmNXNUlXbU10T1VOelEyVndkRkZRYUVsRGNFTkJHaUpCVUZob2JUVmhSVkpNU2xSMlZsTkVXRk5oYW0xa2NHNW5VbFZZTjFodmFERkIiLCJmY3YiOiIzIiwiZWkiOiJ6cW5IWmMtOUNzQ2VwdFFQaElDcENBIiwicWMiOiJjLU95TGlqS0xFdE1ybFFveU1fSkJGRlFibkZKWWtscWJtcGVDVndrTDc4a016bFZJVEV2UlNFNUk3RWtLYjlFZ0tIMlZiNmxQUUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHByaXZhY3kgcG9saWN5IG9mIGEgY29tcHV0ZXI%2FIiwibGsiOiJHaGRqYjIxd2RYUmxjaUJ3Y21sMllXTjVJSEJ2YkdsamVRIiwiYnMiOiJjLU9LNDlJT3owZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRTRlJJQm9vbjVaY29wR1FXSi1ja1p1YW1GdGxMM0hZdzBwSFNLaWRhQjFjd2x6N1lfTVNpVklXU2pGU0ZsTVNTUklXQ29zeXl4T1JLb0JIRnBhbkZDdVdaSlJrd3ZjWDJFdGVUakdTbHBPRm1ZV3JnQ3VOU2R3U2FsNXlmVjVaYVZKeFlrcG1maDJvS1JFTkpxcjNFY1Q0akRTbTFSS0pVYzNseWFjSUNBLVJXbUswRi1UbVpRQXJpeGZ6Y2d0SVNVRkRjZHpLU2xCS0g4ZEVVQ3pBQ0FBIiwiaWQiOiJmY18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Chatbot privacy statement",
+      "link": "https://www.pwc.se/en/about-us/chatbot-privacy-statement.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pwc.se/en/about-us/chatbot-privacy-statement.html&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECBYQAQ",
+      "displayed_link": "https://www.pwc.se › about-us › chatbot-privacy-statement",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86140213ed3581a3aa3cc9bf58764d0cfefb.png",
+      "snippet": "This privacy notice explains how Öhrlings PricewaterhouseCoopers AB ... Please refer to our privacy policy for more information. Cookies Details‎. Cookie List.",
+      "snippet_highlighted_words": [
+        "privacy notice",
+        "privacy policy"
+      ],
+      "source": "PwC Sverige"
+    },
+    {
+      "position": 2,
+      "title": "Chatbot Privacy Policy",
+      "link": "https://mainstay.com/legal-chatbotprivacypolicy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mainstay.com/legal-chatbotprivacypolicy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECBUQAQ",
+      "displayed_link": "https://mainstay.com › legal-chatbotprivacypolicy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861499bdd8f4b1f935e35b95d273087e578e.png",
+      "snippet": "This Chatbot Privacy Policy explains what Personal Information (defined below) we collect from or about Users, how we use and share that information, and your ...",
+      "snippet_highlighted_words": [
+        "Chatbot Privacy Policy"
+      ],
+      "source": "Mainstay"
+    },
+    {
+      "position": 3,
+      "title": "Chatbot privacy statement",
+      "link": "https://enreach.com/en/security-privacy/privacy/chatbot-privacy-statement",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enreach.com/en/security-privacy/privacy/chatbot-privacy-statement&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECBQQAQ",
+      "displayed_link": "https://enreach.com › security-privacy › chatbot-privacy-...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86143a128e43556cef117ec49ae0d27ca141.png",
+      "snippet": "This Privacy Statement indicates what Personal Data are collected and used (processed) by Enreach for what purpose, and to which persons or entities the data ...",
+      "snippet_highlighted_words": [
+        "Privacy Statement"
+      ],
+      "source": "Enreach"
+    },
+    {
+      "position": 4,
+      "title": "Chatbots, AI and the future of privacy",
+      "link": "https://iapp.org/news/a/chatbots-ai-and-the-future-of-privacy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iapp.org/news/a/chatbots-ai-and-the-future-of-privacy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECBIQAQ",
+      "displayed_link": "https://iapp.org › news › chatbots-ai-and-the-future-of-pr...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861437623cf456211cc2ab253846905cc70b.png",
+      "date": "Mar 31, 2023",
+      "snippet": "Pease International Tradeport, 75 Rochester Ave. Portsmouth, NH 03801 USA • +1 603.427.9200. Contact Us · Press · Advertise · Privacy Notice ...",
+      "snippet_highlighted_words": [
+        "Privacy Notice"
+      ],
+      "source": "International Association of Privacy Professionals"
+    },
+    {
+      "position": 5,
+      "title": "Chatbot Privacy Notice | University of Turku",
+      "link": "https://www.utu.fi/en/privacy/notice/chatbot-privacy-notice",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.utu.fi/en/privacy/notice/chatbot-privacy-notice&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECCwQAQ",
+      "displayed_link": "https://www.utu.fi › privacy › chatbot-privacy-notice",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614e2382f551e8c5ad03ff821022120207f.png",
+      "snippet": "Chatbot Privacy Notice. Purpose of processing data. A virtual assistant, also known as ... privacy-policy). Automatic decision making. The service does not make ...",
+      "snippet_highlighted_words": [
+        "Chatbot Privacy Notice",
+        "privacy-policy"
+      ],
+      "source": "Turun yliopisto"
+    },
+    {
+      "position": 6,
+      "title": "Privacy Policy for Anywhere365 Chatbot",
+      "link": "https://anywhere365.io/wp-content/uploads/2020/02/Anywhere365-Chatbot-Privacy-Policy.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://anywhere365.io/wp-content/uploads/2020/02/Anywhere365-Chatbot-Privacy-Policy.pdf&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCI4CEAE",
+      "displayed_link": "https://anywhere365.io › uploads › 2020/02 › An...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86149d01ddf730a087beb0d00ecde24244ad.png",
+      "snippet": "Privacy Policy for Anywhere365 Chatbot. Workstreampeople B.V. (“Workstreampeople ... such sites and such sites are not governed by this privacy statement. You ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "Chatbot",
+        "privacy statement"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 4
+          },
+          "extensions": [
+            "4 pages"
+          ]
+        }
+      },
+      "source": "Anywhere365"
+    },
+    {
+      "position": 7,
+      "title": "Privacy Notice | Your Privacy Is Very Important to Us",
+      "link": "https://www.xmatters.com/trust/privacy/privacy-notice",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.xmatters.com/trust/privacy/privacy-notice&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECCkQAQ",
+      "displayed_link": "https://www.xmatters.com › Trust › Privacy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86140dc19ab5e52e591b6a5db8ba6bb2ebb4.png",
+      "snippet": "This Privacy Policy describes how xMatters collects, uses, shares and ... We will indicate at the top of the Privacy Statement when it was most recently updated.",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "Privacy Statement"
+      ],
+      "source": "xMatters"
+    },
+    {
+      "position": 8,
+      "title": "Covid Records Chatbot privacy statement",
+      "link": "https://www.alberta.ca/covid-records-chatbot-privacy-statement",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.alberta.ca/covid-records-chatbot-privacy-statement&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCJABEAE",
+      "displayed_link": "https://www.alberta.ca › covid-records-chatbot-privacy-st...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614c7c0c4cfa0ba301b3efaa513f9e9604b.png",
+      "snippet": "Covid Records Chatbot privacy statement. How information is collected when using the Covid Records Chatbot service.",
+      "snippet_highlighted_words": [
+        "Chatbot privacy statement",
+        "Chatbot"
+      ],
+      "source": "Government of Alberta"
+    },
+    {
+      "position": 9,
+      "title": "Chatbot-Software | Data privacy policy",
+      "link": "https://www.aiaibot.com/en/data-privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aiaibot.com/en/data-privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCIsCEAE",
+      "displayed_link": "https://www.aiaibot.com › data-privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861467ed45bcc2b0d4a57a6ea9245f07baaa.png",
+      "snippet": "This privacy policy is directed at personal data of the following natural persons: ... chatbot and the user's consent (approval) is requested. We have carefully ...",
+      "snippet_highlighted_words": [
+        "privacy policy",
+        "chatbot"
+      ],
+      "source": "aiaibot"
+    },
+    {
+      "position": 10,
+      "title": "ChatBot Legal & Terms of Use",
+      "link": "https://www.chatbot.com/legal/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chatbot.com/legal/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCI0CEAE",
+      "displayed_link": "https://www.chatbot.com › legal",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614f0164f6874425e6939d651d51989fea3.png",
+      "snippet": "To understand how we process your data, including through cookies, and interactions with us, please read our Privacy Policy.",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "ChatBot"
+    },
+    {
+      "position": 11,
+      "title": "Chatbot Privacy Policy",
+      "link": "https://www.bring.com/privacy-policy/chatbot",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bring.com/privacy-policy/chatbot&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECCgQAQ",
+      "displayed_link": "https://www.bring.com › privacy-policy › chatbot",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861477ba2d76a572816d8a54ef0483afa84a.png",
+      "snippet": "Chatbot Privacy Policy. Information about processing of your personal data when you contact Posten & Bring customer service by using our chatbot ...",
+      "snippet_highlighted_words": [
+        "Chatbot Privacy Policy",
+        "chatbot"
+      ],
+      "source": "bring.com"
+    },
+    {
+      "position": 12,
+      "title": "Chatbot Privacy Policy | Tourism Kamloops, BC",
+      "link": "https://www.tourismkamloops.com/privacy-policy/chatbotprivacypolicy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tourismkamloops.com/privacy-policy/chatbotprivacypolicy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECGIQAQ",
+      "displayed_link": "https://www.tourismkamloops.com › privacy-policy › ch...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861421f46175439a0e70fb6d8fe3733b9e9a.png",
+      "snippet": "TOURISM KAMLOOPS CHATBOT PRIVACY POLICY. At Tourism Kamloops, we value your trust and your privacy is a top priority. To respect that trust we adhere to ...",
+      "snippet_highlighted_words": [
+        "CHATBOT PRIVACY POLICY"
+      ],
+      "source": "Tourism Kamloops"
+    },
+    {
+      "position": 13,
+      "title": "chatbot-privacy-notice-feb-2021.pdf - Gorey",
+      "link": "https://alturacu.ie/media/jzjl4oax/chatbot-privacy-notice-feb-2021.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alturacu.ie/media/jzjl4oax/chatbot-privacy-notice-feb-2021.pdf&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCJcBEAE",
+      "displayed_link": "https://alturacu.ie › media › chatbot-privacy-notic...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614e97f5b168140277dcda1e735d3c6a088.png",
+      "snippet": "... Privacy Statement. Livechats website also provides very helpful information ... privacy-policy/. Our own website will also help you at https://www.alturacu.ie ...",
+      "snippet_highlighted_words": [
+        "Privacy Statement",
+        "privacy-policy"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 9
+          },
+          "extensions": [
+            "9 pages"
+          ]
+        }
+      },
+      "source": "Altura Credit Union Ltd."
+    },
+    {
+      "position": 14,
+      "title": "Privacy Notice - Privaon's Privacy Notice - Privacy as a Service",
+      "link": "https://privaon.com/privacy-notice/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://privaon.com/privacy-notice/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCMIBEAE",
+      "displayed_link": "https://privaon.com › privacy-notice",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614ce769adf47ab2e6a571acdd0dad231a4.png",
+      "snippet": "Privacy Notice. December 2019. Since privacy and data protection are at the core of ... We may update this Privacy Statement from time to time. If we make any ...",
+      "snippet_highlighted_words": [
+        "Privacy Notice",
+        "Privacy Statement"
+      ],
+      "source": "privaon.com"
+    },
+    {
+      "position": 15,
+      "title": "Our Privacy Policy",
+      "link": "https://chatbot.team/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://chatbot.team/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCO4BEAE",
+      "displayed_link": "https://chatbot.team › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86141c9234c20e8234de286b6ce33b9911c4.png",
+      "date": "Jan 18, 2024",
+      "snippet": "Read Chatbot.team's Privacy Policy for clear insights on data protection, user rights, and secure handling of personal information on our ...",
+      "snippet_highlighted_words": [
+        "Chatbot",
+        "Privacy Policy"
+      ],
+      "source": "Chatbot.team"
+    },
+    {
+      "position": 16,
+      "title": "6 Tips to ensure that your chatbots are GDPR compliant",
+      "link": "https://www.clickatell.com/articles/information-security/6-tips-chatbots-gdpr-compliant/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clickatell.com/articles/information-security/6-tips-chatbots-gdpr-compliant/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCIwCEAE",
+      "displayed_link": "https://www.clickatell.com › articles › information-security",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614e6842098fb4c42b3457f388896e4a902.png",
+      "snippet": "This privacy policy needs to be shown to users before their data is collected, so you can use a link in your chatbot's conversational flow to share it with ...",
+      "snippet_highlighted_words": [
+        "privacy policy",
+        "chatbot's"
+      ],
+      "source": "Clickatell"
+    },
+    {
+      "position": 17,
+      "title": "Facebook Chatbot Privacy Policy",
+      "link": "https://www.cargill.co.in/en/chatbot-privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cargill.co.in/en/chatbot-privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCKcCEAE",
+      "displayed_link": "https://www.cargill.co.in › chatbot-privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86148084b6ec79ec79ab2240bce92c7a81b7.png",
+      "snippet": "Facebook Chatbot Privacy Policy · “Privacy Statement of Personal Information: You are hereby notified of the purpose prior to collecting and processing your ...",
+      "snippet_highlighted_words": [
+        "Chatbot Privacy Policy",
+        "Privacy Statement"
+      ],
+      "source": "Cargill"
+    },
+    {
+      "position": 18,
+      "title": "Privacy statement for the ECBot - European Union",
+      "link": "https://www.ecb.europa.eu/services/data-protection/privacy-statements/html/ecb.privacy_statement_chatbot.en.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ecb.europa.eu/services/data-protection/privacy-statements/html/ecb.privacy_statement_chatbot.en.html&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCLQCEAE",
+      "displayed_link": "https://www.ecb.europa.eu › privacy-statements › html",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861474feeda47fa27a0f77d3801e34a543fe.png",
+      "snippet": "Privacy statement for the ECBot. What is our legal framework? All personal data ... We have updated our privacy policy. We are always working to improve this ...",
+      "snippet_highlighted_words": [
+        "Privacy statement",
+        "privacy policy"
+      ],
+      "source": "European Central Bank"
+    },
+    {
+      "position": 19,
+      "title": "Privacy Policy - AI",
+      "link": "https://www.klobot.ai/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.klobot.ai/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECEQQAQ",
+      "displayed_link": "https://www.klobot.ai › privacy-policy",
+      "snippet": "KLoBot, Inc values your privacy in your personal information and your Content that you store in our Service. This Privacy Policy explains what information ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "KLoBot | AI"
+    },
+    {
+      "position": 20,
+      "title": "Privacy Policy",
+      "link": "https://landbot.io/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://landbot.io/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECEcQAQ",
+      "displayed_link": "https://landbot.io › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614fd91a74442cc7743202b5880a9baadd6.png",
+      "date": "Dec 22, 2023",
+      "snippet": "Users must read and expressly consent to the data treatment referred by this Privacy Policy, before using the Services. 2. Data Controller. The ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "Landbot"
+    },
+    {
+      "position": 21,
+      "title": "Privacy Policy | AiChat.com - Leading Chatbot Company",
+      "link": "https://aichat.com/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aichat.com/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECGEQAQ",
+      "displayed_link": "https://aichat.com › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614044125c3a1adccafcb0728ffddff3343.png",
+      "snippet": "The Privacy Policy explains how AiChat (include our affiliates subsidiaries) may collect, use, & disclose information we obtain through the “Service.”",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "AiChat"
+    },
+    {
+      "position": 22,
+      "title": "Privacy Policy | Chatbot Research @ Karlsruhe Institute of ...",
+      "link": "https://chatbotresearch.org/privacy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://chatbotresearch.org/privacy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECH0QAQ",
+      "displayed_link": "https://chatbotresearch.org › privacy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86146bc3887fdc275429c944f7332f29ca6f.png",
+      "snippet": "This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "chatbotresearch.org"
+    },
+    {
+      "position": 23,
+      "title": "Privacy Policy - Chatbot for Class",
+      "link": "https://chatbot-for-class.com/docs/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://chatbot-for-class.com/docs/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCI0BEAE",
+      "displayed_link": "https://chatbot-for-class.com › docs › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614b259c1674f4f73333dea5624acf11afd.png",
+      "snippet": "Privacy Policy. Your privacy is important to us. It is Chatbot for Class' policy to respect your privacy regarding any information we may collect from you ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "Chatbot"
+      ],
+      "source": "chatbot-for-class.com"
+    },
+    {
+      "position": 24,
+      "title": "AI, Chatbots and Beyond: Combating The Data Privacy ...",
+      "link": "https://www.onetrust.com/resources/ai-chatbots-and-beyond-combating-the-data-privacy-risks-webinar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onetrust.com/resources/ai-chatbots-and-beyond-combating-the-data-privacy-risks-webinar/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCKoBEAE",
+      "displayed_link": "https://www.onetrust.com › resources › ai-chatbots-and-b...",
+      "snippet": "Privacy Notice · Cookie Notice · Trust Center. Your rights. Exercise Your Rights ... Privacy Policy Link. https://twitter.com/en/privacy. Cookie Policy Link.",
+      "snippet_highlighted_words": [
+        "Privacy Notice",
+        "Privacy Policy"
+      ],
+      "source": "OneTrust"
+    },
+    {
+      "position": 25,
+      "title": "Chatbot Geeks Privacy Policy",
+      "link": "https://www.messengerchatbotagency.com/messenger-chatbot-privacy-policy.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.messengerchatbotagency.com/messenger-chatbot-privacy-policy.html&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCMQBEAE",
+      "displayed_link": "https://www.messengerchatbotagency.com › messenger-c...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86142f583fbd45682f5a4d3a1715f7a887c7.png",
+      "snippet": "This Privacy Policy document describes, in detail, the types of personal information we collect and record at chatbotgeeks.com, and how we use this information.",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "messengerchatbotagency.com"
+    },
+    {
+      "position": 26,
+      "title": "Chatbot Disclaimer and Terms of Service",
+      "link": "https://epiguard.com/chatbot-disclaimer-terms-of-service/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://epiguard.com/chatbot-disclaimer-terms-of-service/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCN8BEAE",
+      "displayed_link": "https://epiguard.com › chatbot-disclaimer-terms-of-service",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614f2d180a94d84a3feebf82093fedfb340.png",
+      "snippet": "... Privacy Policy. Recording Consent: You consent to the recording of your interactions with the chatbot for the purposes mentioned in this disclaimer. Data ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "chatbot"
+      ],
+      "source": "EpiGuard"
+    },
+    {
+      "position": 27,
+      "title": "Don't tell anything to a chatbot you want to keep private",
+      "link": "https://www.ctvnews.ca/sci-tech/don-t-tell-anything-to-a-chatbot-you-want-to-keep-private-1.6346239",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ctvnews.ca/sci-tech/don-t-tell-anything-to-a-chatbot-you-want-to-keep-private-1.6346239&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCOwBEAE",
+      "displayed_link": "https://www.ctvnews.ca › sci-tech › don-t-tell-anything-t...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614d56f53d2051d393d1f6fdd97aee2f996.png",
+      "date": "Apr 6, 2023",
+      "snippet": "... chatbot that first kicked off Big Tech's AI arms race, due to compliance ... The privacy policy states it may provide personal information to ...",
+      "snippet_highlighted_words": [
+        "chatbot",
+        "privacy policy"
+      ],
+      "source": "CTV News"
+    },
+    {
+      "position": 28,
+      "title": "Privacy Policy - onedee.ai : HR chatbot",
+      "link": "https://www.onedee.ai/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onedee.ai/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCPwBEAE",
+      "displayed_link": "https://www.onedee.ai › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614c259a854a9480b275aa69314158f543b.png",
+      "snippet": "Privacy Policy ... Websites and services co-branded with other partners may display or link to a joint privacy statement or separate privacy statements of our ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "privacy statement"
+      ],
+      "source": "OneDee.ai"
+    },
+    {
+      "position": 29,
+      "title": "Privacy Policy Chatbot",
+      "link": "https://www.austrian.com/ca/en/data-protection-chatbot",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.austrian.com/ca/en/data-protection-chatbot&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCO0BEAE",
+      "displayed_link": "https://www.austrian.com › data-protection-chatbot",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614fa911002cb32475c1fed7508761d03c2.png",
+      "snippet": "In case of deviations from the Austrian privacy statement, this privacy policy has overriding priority. 1. Controller. Under the General Data Protection ...",
+      "snippet_highlighted_words": [
+        "privacy statement",
+        "privacy policy"
+      ],
+      "source": "Austrian Airlines"
+    },
+    {
+      "position": 30,
+      "title": "Chatbot Privacy Policy",
+      "link": "https://www.electoral.barbados.gov.bb/chatbot-privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.electoral.barbados.gov.bb/chatbot-privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCJwCEAE",
+      "displayed_link": "https://www.electoral.barbados.gov.bb › chatbot-privacy...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614a6f51d33c0d96a9653eb2fafa024149b.png",
+      "snippet": "Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable ...",
+      "snippet_highlighted_words": [
+        "privacy policy"
+      ],
+      "source": "Ecstasy BD"
+    },
+    {
+      "position": 31,
+      "title": "Don't tell anything to a chatbot you want to keep private",
+      "link": "https://www.cnn.com/2023/04/06/tech/chatgpt-ai-privacy-concerns/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/2023/04/06/tech/chatgpt-ai-privacy-concerns/index.html&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCO8BEAE",
+      "displayed_link": "https://www.cnn.com › tech › chatgpt-ai-privacy-concerns",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614bc41ffd8d519b3276ea2737df0cdd959.png",
+      "date": "Apr 6, 2023",
+      "snippet": "Some companies, including JPMorgan Chase (JPM), have clamped down on employees' use of ChatGPT, the viral AI chatbot ... The privacy policy states ...",
+      "snippet_highlighted_words": [
+        "chatbot",
+        "privacy policy"
+      ],
+      "source": "CNN"
+    },
+    {
+      "position": 32,
+      "title": "Privacy Policy",
+      "link": "https://www.ada.cx/legal-resources/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ada.cx/legal-resources/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCKgCEAE",
+      "displayed_link": "https://www.ada.cx › legal-resources › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86144c4ee9b53f7e7a8406833e579d3ca667.png",
+      "date": "Sep 1, 2022",
+      "snippet": "... chatbots\" (collectively, the \"Services\"). This Privacy Policy (\"Policy\") describes how we collect, use, disclose and protect information ...",
+      "snippet_highlighted_words": [
+        "chatbots",
+        "Privacy Policy"
+      ],
+      "source": "Ada Support"
+    },
+    {
+      "position": 33,
+      "title": "Privacy Policy - Onlim Chatbots & Voice Assistants",
+      "link": "https://onlim.com/en/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://onlim.com/en/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCLYCEAE",
+      "displayed_link": "https://onlim.com › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614a3ce2a457ba0bf4128774ed4fdd1fb17.png",
+      "date": "May 23, 2015",
+      "snippet": "We will not use or share your information with anyone except as described in this Privacy Policy. We use your Personal Information for providing ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "Onlim"
+    },
+    {
+      "position": 34,
+      "title": "Privacy Policy",
+      "link": "https://www.intercom.com/legal/privacy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.intercom.com/legal/privacy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCL4CEAE",
+      "displayed_link": "https://www.intercom.com › legal › privacy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614b0c1c1e51390724b2d1a9d862186bcb5.png",
+      "date": "Oct 1, 2023",
+      "snippet": "This Privacy Policy is designed to help you to understand what ... activities governed by a different privacy notice, such as notices ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "privacy notice"
+      ],
+      "source": "Intercom"
+    },
+    {
+      "position": 35,
+      "title": "Chatbot Privacy Information",
+      "link": "https://www.mds.ovgu.de/en/Research/Magdebot/Chatbot+Privacy+Information.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mds.ovgu.de/en/Research/Magdebot/Chatbot%2BPrivacy%2BInformation.html&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCJoCEAE",
+      "displayed_link": "https://www.mds.ovgu.de › Research › Magdebot › Chat...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86145e4116ba1bc837c85c572c6b274413c5.png",
+      "date": "Mar 17, 2023",
+      "snippet": "This privacy statement solely covers data processing in connection with the use of the chatbot ... For more information, read our privacy policy.",
+      "snippet_highlighted_words": [
+        "privacy statement",
+        "chatbot",
+        "privacy policy"
+      ],
+      "source": "OVGU"
+    },
+    {
+      "position": 36,
+      "title": "ChatGPT Has a Big Privacy Problem",
+      "link": "https://www.wired.com/story/italy-ban-chatgpt-privacy-gdpr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wired.com/story/italy-ban-chatgpt-privacy-gdpr/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECEkQAQ",
+      "displayed_link": "https://www.wired.com › Security › artificial intelligence",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86144a4e5b30ddaaf6b8e7ff649c45b905a2.png",
+      "date": "Apr 4, 2023",
+      "snippet": "OpenAI's privacy policy doesn't directly mention its legal reasons for using people's personal information in training data but says it ...",
+      "snippet_highlighted_words": [
+        "privacy policy"
+      ],
+      "source": "WIRED"
+    },
+    {
+      "position": 37,
+      "title": "Chatbots: Security, privacy, data protection, and social ...",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cpe.6426",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://onlinelibrary.wiley.com/doi/10.1002/cpe.6426&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECEUQAQ",
+      "displayed_link": "https://onlinelibrary.wiley.com › doi › cpe",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86144b05c263122f58ac2b8065e6dd392564.png",
+      "author": "by M Hasal",
+      "cited_by": "Cited by 88",
+      "extracted_cited_by": 88,
+      "date": "2021",
+      "snippet": "Empty cells are not specified in the privacy policy. 3.1 Chatbot security versus the new law in the European Union's GDPR. General Data ...",
+      "snippet_highlighted_words": [
+        "privacy policy",
+        "Chatbot"
+      ],
+      "source": "Wiley Online Library"
+    },
+    {
+      "position": 38,
+      "title": "Privacy policy",
+      "link": "https://www.basf.com/global/en/legal/data-protection.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.basf.com/global/en/legal/data-protection.html&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECFwQAQ",
+      "displayed_link": "https://www.basf.com › global › legal › data-protection",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86142cd3cc16d22bb55ef83d4beab79c108b.png",
+      "snippet": "Privacy policy. Global. Privacy policy. BASF is pleased about your visit to our website and your interest in our company. The topic of data protection has the ...",
+      "snippet_highlighted_words": [
+        "Privacy policy",
+        "Privacy policy"
+      ],
+      "source": "BASF"
+    },
+    {
+      "position": 39,
+      "title": "Privacy Policy - Africa Chatbot & Conversational AI Summit",
+      "link": "https://chatbotafrica.com/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://chatbotafrica.com/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECGAQAQ",
+      "displayed_link": "https://chatbotafrica.com › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614860db322d527c5fb824159e55c4c2ff3.png",
+      "snippet": "Online privacy statement. Africa Chatbot & Conversational AI Summit intent is ... Chatbot Africa may modify this Statement to reflect our current privacy policy.",
+      "snippet_highlighted_words": [
+        "privacy statement",
+        "Chatbot",
+        "Chatbot",
+        "privacy policy"
+      ],
+      "source": "chatbotafrica.com"
+    },
+    {
+      "position": 40,
+      "title": "ChatBot Mobile Application Privacy Policy",
+      "link": "https://hexaware.com/wp-content/uploads/2020/03/Privacy-Policy-and-Additional-Terms.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hexaware.com/wp-content/uploads/2020/03/Privacy-Policy-and-Additional-Terms.pdf&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECHQQAQ",
+      "displayed_link": "https://hexaware.com › uploads › 2020/03 › Priva...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614c3d88535cf5183ed571f070bef7312a8.png",
+      "snippet": "we call “ChatBot”. • This Privacy Policy (Section 1) and Additional Terms (Section 2) governs use of ChatBot, once you have downloaded or streamed a copy of ...",
+      "snippet_highlighted_words": [
+        "ChatBot",
+        "Privacy Policy",
+        "ChatBot"
+      ],
+      "source": "Hexaware Technologies"
+    },
+    {
+      "position": 41,
+      "title": "Chatbot privacy and the law: how good design helps us ...",
+      "link": "https://www.ideta.io/blog-posts-english/chatbot-privacy-design",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ideta.io/blog-posts-english/chatbot-privacy-design&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECH4QAQ",
+      "displayed_link": "https://www.ideta.io › blog-posts-english › chatbot-priva...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614242d97412265daa0cc4c72ae8049a463.png",
+      "date": "Oct 12, 2021",
+      "snippet": "Establishing a policy on chatbots · Design your chatbot in a way that your privacy policy is embedded · Utilize data encryption and data filtering.",
+      "snippet_highlighted_words": [
+        "chatbots",
+        "chatbot",
+        "privacy policy"
+      ],
+      "source": "ideta.io"
+    },
+    {
+      "position": 42,
+      "title": "4 Effective Way To Deal With Your Chatbot Privacy And ...",
+      "link": "https://www.xenioo.com/4-effective-way-to-deal-with-your-chatbot-privacy-and-data-safeness/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.xenioo.com/4-effective-way-to-deal-with-your-chatbot-privacy-and-data-safeness/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCI4BEAE",
+      "displayed_link": "https://www.xenioo.com › Articles",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86141dbe78c11457c9ef4f7dea941342534e.png",
+      "date": "Oct 4, 2020",
+      "snippet": "And that's why we wrote this article, to speak about chatbot privacy policy. Chatbots are becoming ubiquitous and people are getting more ...",
+      "snippet_highlighted_words": [
+        "chatbot privacy policy",
+        "Chatbots"
+      ],
+      "source": "Xenioo"
+    },
+    {
+      "position": 43,
+      "title": "AI Chatbot - Privacy Policy",
+      "link": "https://sites.google.com/view/ai-chatbot-app/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sites.google.com/view/ai-chatbot-app/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCJYBEAE",
+      "displayed_link": "https://sites.google.com › view › privacy-policy",
+      "snippet": "By using our site or apps, you consent to our privacy policy. Information we collect.",
+      "snippet_highlighted_words": [
+        "privacy policy"
+      ],
+      "source": "Google Sites"
+    },
+    {
+      "position": 44,
+      "title": "Privacy Information Statement - Umi - Chatbot - RMIT University",
+      "link": "https://umi.rmit.edu.au/privacy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://umi.rmit.edu.au/privacy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCKgBEAE",
+      "displayed_link": "https://umi.rmit.edu.au › privacy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86147744ec39ebd21a7e12f23a59747a6a15.png",
+      "snippet": "... Privacy Statement. The technology behind Umibot. Umi is a chatbot; that is, a computer program (not a human) that simulates conversation with users. We built ...",
+      "snippet_highlighted_words": [
+        "Privacy Statement",
+        "chatbot"
+      ],
+      "source": "RMIT University"
+    },
+    {
+      "position": 45,
+      "title": "1 minute to create a privacy policy for Facebook ...",
+      "link": "https://www.linkedin.com/pulse/1-minute-create-privacy-policy-facebook-messenger-chatbot-chornyi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pulse/1-minute-create-privacy-policy-facebook-messenger-chatbot-chornyi&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCK0BEAE",
+      "displayed_link": "10+ reactions · 6 years ago",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861491c9c54654964f8cbf61e05c1ea43ebb.png",
+      "snippet": "platform;; detailed list of chatbot use cases;; screencast of bot;; privacy policy. I want to discuss the last stage. What is a problem with a ...",
+      "snippet_highlighted_words": [
+        "chatbot",
+        "privacy policy"
+      ],
+      "source": "LinkedIn · Vova Chornyi"
+    },
+    {
+      "position": 46,
+      "title": "Privacy statement on the protection of your personal data ...",
+      "link": "https://op.europa.eu/en/web/about-us/privacy-statement",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://op.europa.eu/en/web/about-us/privacy-statement&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCLEBEAE",
+      "displayed_link": "https://op.europa.eu › web › about-us › privacy-statement",
+      "snippet": "Privacy statement on the protection of your personal data. This privacy statement ... Privacy policy · Legal notice · Cookies. EU institutions. Search for EU ...",
+      "snippet_highlighted_words": [
+        "Privacy statement",
+        "privacy statement",
+        "Privacy policy"
+      ],
+      "source": "Publications Office of the EU"
+    },
+    {
+      "position": 47,
+      "title": "Data Protection Notice Facebook Chatbot",
+      "link": "https://www.austrian.com/ca/en/privacy-policy-austrian-facebook-chatbot",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.austrian.com/ca/en/privacy-policy-austrian-facebook-chatbot&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCMoBEAE",
+      "displayed_link": "https://www.austrian.com › privacy-policy-austrian-faceb...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86146d12c97d45fd6078c8e6ceae13c24bf9.png",
+      "snippet": "The Privacy Policy for the Austrian Airlines Chatbot Facebook Page can be found here.",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "Chatbot"
+      ],
+      "source": "Austrian Airlines"
+    },
+    {
+      "position": 48,
+      "title": "Privacy policy",
+      "link": "https://openai.com/policies/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://openai.com/policies/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCMUBEAE",
+      "displayed_link": "https://openai.com › policies › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614053b8bcca30ecef38a9d2183ddb41b9e.png",
+      "date": "Nov 14, 2023",
+      "snippet": "This Privacy Policy describes our practices with respect to Personal Information we collect from or about you when you use our website, ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "OpenAI"
+    },
+    {
+      "position": 49,
+      "title": "iCARE chatbot privacy notice",
+      "link": "https://www.novonordisk.co.ke/en/contact-us/privacy-notice-icare-chatbot.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.novonordisk.co.ke/en/contact-us/privacy-notice-icare-chatbot.html&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCN4BEAE",
+      "displayed_link": "https://www.novonordisk.co.ke › contact-us › privacy-n...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614e6e43dce4b99aa5133f28ec5595ff141.png",
+      "snippet": "iCARE charbot privacy policy. ... iCARE chatbot privacy notice. Novo Nordisk is required by law to protect your personal data. Your ...",
+      "snippet_highlighted_words": [
+        "privacy policy",
+        "chatbot privacy notice"
+      ],
+      "source": "Novo Nordisk Middle Africa"
+    },
+    {
+      "position": 50,
+      "title": "Privacy And Security Considerations For Consumer-facing ...",
+      "link": "https://botcore.ai/blog/chatbot-privacy-security/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://botcore.ai/blog/chatbot-privacy-security/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCOEBEAE",
+      "displayed_link": "https://botcore.ai › blog › chatbot-privacy-security",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86149cfa5a1d942e40b535ac4e3c57cdd56a.png",
+      "date": "Sep 28, 2020",
+      "snippet": "The chatbot's Terms & Conditions; Privacy policy; The chatbot platform's Terms & Conditions; All documentation exposed to public; Advertisement ...",
+      "snippet_highlighted_words": [
+        "chatbot's",
+        "Privacy policy",
+        "chatbot"
+      ],
+      "source": "BotCore"
+    },
+    {
+      "position": 51,
+      "title": "Charley Privacy Statement - Charley, the abortion chatbot",
+      "link": "https://www.chatwithcharley.org/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chatwithcharley.org/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCPgBEAE",
+      "displayed_link": "https://www.chatwithcharley.org › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614a17f1b6b22bc3ab841beb629c6a4b2a1.png",
+      "snippet": "This privacy statement applies to the Charley chatbot and website provided by the Re ... privacy policy or privacy statement. You should carefully review the ...",
+      "snippet_highlighted_words": [
+        "privacy statement",
+        "chatbot",
+        "privacy policy",
+        "privacy statement"
+      ],
+      "source": "Chat with Charley"
+    },
+    {
+      "position": 52,
+      "title": "HubSpot Community - Chatbot Privacy Policy consent record",
+      "link": "https://community.hubspot.com/t5/HubSpot-Ideas/Chatbot-Privacy-Policy-consent-record/idi-p/566100",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.hubspot.com/t5/HubSpot-Ideas/Chatbot-Privacy-Policy-consent-record/idi-p/566100&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCPkBEAE",
+      "displayed_link": "https://community.hubspot.com › HubSpot-Ideas › idi-p",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614e51361bdb387cedfc200211bba5c8840.png",
+      "date": "Jan 31, 2022",
+      "snippet": "Right now, when the person agrees to the Privacy Policy banner (if enabled) in Hubspot chatbot the dialogue starts and it can only start ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "chatbot"
+      ],
+      "source": "HubSpot Community"
+    },
+    {
+      "position": 53,
+      "title": "Privacy Policy - Intelli – Chatbot AI Assistant",
+      "link": "https://intelli-chat.app/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://intelli-chat.app/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCP4BEAE",
+      "displayed_link": "https://intelli-chat.app › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86145b41caa8aba711bf8a6949a6830a30ef.png",
+      "date": "Feb 3, 2023",
+      "snippet": "Privacy policy. Thank you for using Chatbot (the “Mobile Application” or “Service”) provided by AppLab Kamil Piekarz (the “Operator”, “we”, ...",
+      "snippet_highlighted_words": [
+        "Privacy policy",
+        "Chatbot"
+      ],
+      "source": "intelli-chat.app"
+    },
+    {
+      "position": 54,
+      "title": "Cloud AI Chatbot Privacy Policy - DivMulTech LLC",
+      "link": "https://divmultech.com/cloud-ai-chatbot-privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://divmultech.com/cloud-ai-chatbot-privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCP0BEAE",
+      "displayed_link": "https://divmultech.com › cloud-ai-chatbot-privacy-policy",
+      "snippet": "CCPA Privacy. This privacy notice section for California residents supplements the information contained in Our Privacy Policy and it applies solely to all ...",
+      "snippet_highlighted_words": [
+        "privacy notice",
+        "Privacy Policy"
+      ],
+      "source": "divmultech.com"
+    },
+    {
+      "position": 55,
+      "title": "Data protection notice and declaration of consent",
+      "link": "https://www.swiss.com/gb/en/terms-conditions/data-protection-chatbot",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.swiss.com/gb/en/terms-conditions/data-protection-chatbot&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCIoCEAE",
+      "displayed_link": "https://www.swiss.com › terms-conditions › data-protecti...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614a8316aac0b2827e71566379deb0103b8.png",
+      "snippet": "In case of deviations to the SWISS privacy statement, this data protection notice has overriding priority. ... Privacy Policy, which you will find at ​https://www ...",
+      "snippet_highlighted_words": [
+        "privacy statement",
+        "Privacy Policy"
+      ],
+      "source": "SWISS"
+    },
+    {
+      "position": 56,
+      "title": "Population Foundation of India SnehAI Chatbot Privacy ...",
+      "link": "https://snehai.org/wp-content/uploads/2022/02/PFI-Chatbot-SnehAI-Privacy-Policy.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://snehai.org/wp-content/uploads/2022/02/PFI-Chatbot-SnehAI-Privacy-Policy.pdf&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECC8QAQ",
+      "displayed_link": "https://snehai.org › wp-content › uploads › 2022/02",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614ae6fb6c4cdb41ed4e2cd39fb3336c3af.png",
+      "snippet": "SnehAI Chatbot Privacy Policy. 1. INTRODUCTION. Your privacy is important to us. This Privacy Policy (“Policy” or “Privacy Policy” explains how. Population ...",
+      "snippet_highlighted_words": [
+        "Chatbot Privacy Policy",
+        "Privacy Policy",
+        "Privacy Policy"
+      ],
+      "source": "SnehAI"
+    },
+    {
+      "position": 57,
+      "title": "Privacy notices",
+      "link": "https://www.nclanarkshire.ac.uk/data-protection/privacy-notices/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nclanarkshire.ac.uk/data-protection/privacy-notices/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCJkCEAE",
+      "displayed_link": "https://www.nclanarkshire.ac.uk › data-protection › priva...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614c8cf4c34fd69c6c3a6228e701c8b7db2.png",
+      "snippet": "Chatbot privacy notice · Complaints privacy notice · Course application privacy ... privacy policy. Thank you. Find a course · All Courses · Qualifications ...",
+      "snippet_highlighted_words": [
+        "Chatbot privacy notice",
+        "privacy notice",
+        "privacy",
+        "privacy policy"
+      ],
+      "source": "New College Lanarkshire"
+    },
+    {
+      "position": 58,
+      "title": "Privacy Policy - Feebi | AI Chatbot for Restaurants,Bars, ...",
+      "link": "https://getfeebi.com/privacy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://getfeebi.com/privacy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCKYCEAE",
+      "displayed_link": "https://getfeebi.com › privacy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86142055bd15ab629e7f651574e344afff03.png",
+      "snippet": "Privacy Policy. Feebi Ltd. Company Number 13445441. Bayside Business Centre C/O Ocelot Accounting, 1 Sovereign Business Park, 48 Willis Way, Poole, ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "Feebi"
+    },
+    {
+      "position": 59,
+      "title": "Privacy Policy",
+      "link": "https://www.chatbotconference.com/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chatbotconference.com/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCKUCEAE",
+      "displayed_link": "https://www.chatbotconference.com › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861403dd2dbc0c06db9323413a51dde98987.png",
+      "snippet": "The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the ...",
+      "snippet_highlighted_words": [
+        "privacy policy"
+      ],
+      "source": "Chatbot Conference"
+    },
+    {
+      "position": 60,
+      "title": "Floatbot Privacy Policy | AI-Powered Voicebot & Chatbot",
+      "link": "https://floatbot.ai/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://floatbot.ai/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCIECEAE",
+      "displayed_link": "https://floatbot.ai › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614eeccec217a718ae21251aa155cea8512.png",
+      "snippet": "© 2024 Floatbot All Rights Reserved. Cookies. We use cookies to help us understand and serve you better.Take a look at our privacy policy to know more. Accept.",
+      "snippet_highlighted_words": [
+        "privacy policy"
+      ],
+      "source": "floatbot.ai"
+    },
+    {
+      "position": 61,
+      "title": "Quitly Chatbot Privacy Policy",
+      "link": "https://www.icanquit.com.au/quitly-chatbot-privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.icanquit.com.au/quitly-chatbot-privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCJgCEAE",
+      "displayed_link": "https://www.icanquit.com.au › quitly-chatbot-privacy-po...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614a80b8d7de310a5d65269e9b2ca90e3e9.png",
+      "snippet": "This Privacy Policy explains how your personal and health information will be treated when you access and interact with the Quitly chatbot managed by the Cancer ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "chatbot"
+      ],
+      "source": "iCanQuit"
+    },
+    {
+      "position": 62,
+      "title": "Privacy Policy",
+      "link": "https://buildchatbot.ai/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://buildchatbot.ai/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCLICEAE",
+      "displayed_link": "https://buildchatbot.ai › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861430db084adec86b7b093e9425f84a7ff5.jpeg",
+      "snippet": "Review Build Chatbot's privacy policy to understand how we protect your data. Your security and confidentiality are our priority.",
+      "snippet_highlighted_words": [
+        "Chatbot's privacy policy"
+      ],
+      "source": "Build Chatbot"
+    },
+    {
+      "position": 63,
+      "title": "Privacy policy",
+      "link": "https://www.cornwall.gov.uk/the-council-and-democracy/website-help-and-information/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cornwall.gov.uk/the-council-and-democracy/website-help-and-information/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCLUCEAE",
+      "displayed_link": "https://www.cornwall.gov.uk › the-council-and-democracy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86140c6cfc941d7f6127e963184352e9a1b8.png",
+      "date": "Dec 12, 2023",
+      "snippet": "Privacy policy. Print page; Share page. Subscribe. Contents. Type of information ... This Privacy Notice explains when and why we collect personal ...",
+      "snippet_highlighted_words": [
+        "Privacy policy",
+        "Privacy Notice"
+      ],
+      "source": "Cornwall Council"
+    },
+    {
+      "position": 64,
+      "title": "Privacy Policy for the WhatsApp-based BCG Recruiting ...",
+      "link": "https://www.bcg.com/about/privacy-policy-chatbot-en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bcg.com/about/privacy-policy-chatbot-en&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCL0CEAE",
+      "displayed_link": "https://www.bcg.com › about › privacy-policy-chatbot-en",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614ea774f35d733a44a45ac893db5af435b.png",
+      "snippet": "Privacy Policy for the WhatsApp-based BCG Recruiting Chatbot ... Welcome to the service provided by The Boston Consulting Group GmbH, Ludwigstraße 21, 80539 ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "Chatbot"
+      ],
+      "source": "Boston Consulting Group"
+    },
+    {
+      "position": 65,
+      "title": "Privacy Policy - Firebolt",
+      "link": "https://www.firebolt.page/chatbot/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.firebolt.page/chatbot/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCLwCEAE",
+      "displayed_link": "https://www.firebolt.page › chatbot › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861434d6ccb95b2f0cbd360b75ae2687342c.png",
+      "snippet": "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Whisper - AI Chatbot Assistant unless ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "Chatbot"
+      ],
+      "source": "firebolt.page"
+    },
+    {
+      "position": 66,
+      "title": "AI Chatbot Service Privacy Policy and Terms & Conditions",
+      "link": "https://rubbishdirect.co.nz/ai-chatbot-service-privacy-policy-and-terms-conditions/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rubbishdirect.co.nz/ai-chatbot-service-privacy-policy-and-terms-conditions/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCLMCEAE",
+      "displayed_link": "https://rubbishdirect.co.nz › ai-chatbot-service-privacy-p...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614ed0f75d990f3cfa3a09feac88789d187.png",
+      "snippet": "Assistance with navigating and completing online forms like casual orders or new service requests. Privacy Policy. Data Collection and Use: The AI Chatbot is ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "Chatbot"
+      ],
+      "source": "Rubbish Direct"
+    },
+    {
+      "position": 67,
+      "title": "Panmedia Chatbot Privacy Policy",
+      "link": "https://www.panmedia.com.jm/panmedia-chatbot-privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.panmedia.com.jm/panmedia-chatbot-privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECEIQAQ",
+      "displayed_link": "https://www.panmedia.com.jm › panmedia-chatbot-priva...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614e7a2fee1b8d1db521dea17a0ed1fac0a.png",
+      "snippet": "Privacy Policy. Panmedia Limited built the Panmedia Chatbot app as a Commercial app. This SERVICE is provided by Panmedia Limited and is intended for use as ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "Chatbot"
+      ],
+      "source": "panmedia.com.jm"
+    },
+    {
+      "position": 68,
+      "title": "Privacy | Samsung UK",
+      "link": "https://www.samsung.com/uk/info/privacy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/uk/info/privacy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECEMQAQ",
+      "displayed_link": "https://www.samsung.com › info › privacy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614096365a19ef25c8328995e8d65d932d2.png",
+      "snippet": "LIVE CHAT PRIVACY POLICY. Privacy Notice for Samsung Chatbot, Text and Video Chat. This Privacy Notice is supplemental to Samsung's general privacy policy at ...",
+      "snippet_highlighted_words": [
+        "PRIVACY POLICY",
+        "Privacy Notice",
+        "Chatbot",
+        "Privacy Notice",
+        "privacy policy"
+      ],
+      "source": "Samsung US"
+    },
+    {
+      "position": 69,
+      "title": "Privacy Policy",
+      "link": "https://www.chaindesk.ai/help/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chaindesk.ai/help/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECEYQAQ",
+      "displayed_link": "https://www.chaindesk.ai › help › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861467b9a8293a67580479b7e24d6a80d2bb.png",
+      "snippet": "Privacy Policy. Tags. Ressource. Published. October 21, 2023. Author. 1. ... This Privacy Statement explains how our organization uses the personal data we ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "Privacy Statement"
+      ],
+      "source": "Chaindesk"
+    },
+    {
+      "position": 70,
+      "title": "Zipchat Privacy Policy | GPT4-Powered ECom Chatbot",
+      "link": "https://zipchat.ai/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zipchat.ai/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECEgQAQ",
+      "displayed_link": "https://zipchat.ai › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614f5f140015ca7cbe28fcd929539d24564.png",
+      "snippet": "Privacy policy · Name and surname · Email address · Phone number · Store addresses · Details about stores · Chats with users to improve our AI capabilities · Location ...",
+      "snippet_highlighted_words": [
+        "Privacy policy"
+      ],
+      "source": "Zipchat"
+    },
+    {
+      "position": 71,
+      "title": "Learn how Whatsapp Chatbot Solution handles privacy",
+      "link": "https://explore.openli.com/privacy/whatsapp-chatbot-solution",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://explore.openli.com/privacy/whatsapp-chatbot-solution&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECF0QAQ",
+      "displayed_link": "https://explore.openli.com › privacy › whatsapp-chatbot-...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86143a3caf9188bb7ab856bbad230c7ebb71.png",
+      "snippet": "The privacy policy by is a legal document or statement that discloses how WhatsApp chatbot solution gathers, uses, discloses, and manges their customers' data.",
+      "snippet_highlighted_words": [
+        "privacy policy",
+        "chatbot"
+      ],
+      "source": "Openli"
+    },
+    {
+      "position": 72,
+      "title": "Privacy Policy",
+      "link": "https://www.twill.health/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.twill.health/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECF8QAQ",
+      "displayed_link": "https://www.twill.health › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614687292d403f7d088f1b91ca36d24c371.png",
+      "snippet": "The purpose of this Twill Privacy Policy (“Privacy Policy”) is to explain ... chatbot named Anna, the behavioral matrix and click-throughs to third parties ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "Privacy Policy",
+        "chatbot"
+      ],
+      "source": "Twill Health"
+    },
+    {
+      "position": 73,
+      "title": "Does ChatGPT Save My Data? OpenAI's Privacy Policy ...",
+      "link": "https://tech.co/news/does-chatgpt-save-my-data",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tech.co/news/does-chatgpt-save-my-data&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECF4QAQ",
+      "displayed_link": "https://tech.co › News",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861432b8b067392a9a61ed42bdae2f1b9eab.png",
+      "date": "Jun 29, 2023",
+      "snippet": "Just as you can review your previous conversations with ChatGPT, so can the chatbot. ... Questionable aspects of OpenAI's privacy policy: In one ...",
+      "snippet_highlighted_words": [
+        "chatbot",
+        "privacy policy"
+      ],
+      "source": "tech.co"
+    },
+    {
+      "position": 74,
+      "title": "Terms of Sevice & Privacy Policy - AI Chatbot Easy Integration",
+      "link": "https://www.aichatboteasyintegration.com/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aichatboteasyintegration.com/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECGMQAQ",
+      "displayed_link": "https://www.aichatboteasyintegration.com › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86148b1b38c125244944089b0e7b03ace914.png",
+      "snippet": "Terms of Sevice & Privacy Policy. Revised: 11/6/2023. Terms of Use/Service. Refunds. Since AI Chatbot Easy Integration Pro includes a 14 day free trial, ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy",
+        "Chatbot"
+      ],
+      "source": "aichatboteasyintegration.com"
+    },
+    {
+      "position": 75,
+      "title": "Privacy policy",
+      "link": "https://www.nhs.uk/better-health/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhs.uk/better-health/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECHUQAQ",
+      "displayed_link": "https://www.nhs.uk › better-health › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614560aa5b680e64320ce2dd54a04718b16.png",
+      "snippet": "Privacy policy for the Better Health website. ... Any 'Chatbot(s)', 'Voice Skill(s)' or 'Action(s)' made available through third party platforms that are also ...",
+      "snippet_highlighted_words": [
+        "Privacy policy",
+        "Chatbot"
+      ],
+      "source": "NHS"
+    },
+    {
+      "position": 76,
+      "title": "Close BV Privacy Statement",
+      "link": "https://thecloseapp.com/privacy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thecloseapp.com/privacy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECHYQAQ",
+      "displayed_link": "https://thecloseapp.com › privacy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861482805c1bf27e21d3a3184acbec44db7f.png",
+      "snippet": "Privacy Statement. We respect your privacy and always process your personal data in accordance with applicable regulations such as the General Data ...",
+      "snippet_highlighted_words": [
+        "Privacy Statement"
+      ],
+      "source": "thecloseapp.com"
+    },
+    {
+      "position": 77,
+      "title": "privacy policy chatbot - Appipapi",
+      "link": "https://www.appipapi.com/privacy-policy-chatbot",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.appipapi.com/privacy-policy-chatbot&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECHcQAQ",
+      "displayed_link": "https://www.appipapi.com › privacy-policy-chatbot",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86141335d4ff20204f9e90d62076901c800b.png",
+      "snippet": "Our Commitment to Your Privacy. We respect and protect the privacy of our App users. This Privacy Policy explains how we collect and use your information ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "appipapi.com"
+    },
+    {
+      "position": 78,
+      "title": "Privacy Policy of Ora Labs, Inc.",
+      "link": "https://ora.ai/privacy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ora.ai/privacy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECHgQAQ",
+      "displayed_link": "https://ora.ai › privacy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86149500dfec915a1121eae0303227c739ae.png",
+      "snippet": "Create your own chatbot with just a description and a click. ... Privacy Policy of Ora Labs, Inc. Ora Labs, Inc. operates the www.ora.ai ...",
+      "snippet_highlighted_words": [
+        "chatbot",
+        "Privacy Policy"
+      ],
+      "source": "ora.ai"
+    },
+    {
+      "position": 79,
+      "title": "Georg Philip Krog posted on the topic",
+      "link": "https://www.linkedin.com/posts/georg-philip-krog-a2a278104_what-if-an-ai-can-talk-in-precise-terms-suited-activity-7152220785368064000-zdC-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/georg-philip-krog-a2a278104_what-if-an-ai-can-talk-in-precise-terms-suited-activity-7152220785368064000-zdC-&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECHwQAQ",
+      "displayed_link": "4 reactions · 3 weeks ago",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86145304341dfe6095c98204385ffcce9ca2.png",
+      "snippet": "Watch Signatu's Privacy AI Chatbot SPIN in action making a Privacy Notice in a few seconds. ... Privacy Policy · Your California Privacy Choices ...",
+      "snippet_highlighted_words": [
+        "Chatbot",
+        "Privacy Notice",
+        "Privacy Policy"
+      ],
+      "source": "LinkedIn · Georg Philip Krog"
+    },
+    {
+      "position": 80,
+      "title": "Privacy Policy",
+      "link": "https://earkick.com/privacy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://earkick.com/privacy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCIwBEAE",
+      "displayed_link": "https://earkick.com › privacy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614400792611f7a943f7ecf435be7b8ff6b.png",
+      "snippet": "By clicking “I AGREE,” or otherwise manifesting your asset to the Privacy Policy and accompanying Terms of Use, when you sign up to access and use the App, you ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "Earkick"
+    },
+    {
+      "position": 81,
+      "title": "Privacy Statement",
+      "link": "https://privacy.newellbrands.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://privacy.newellbrands.com/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCJEBEAE",
+      "displayed_link": "https://privacy.newellbrands.com",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614c026bdd601b2fca4066e13b619855d89.png",
+      "snippet": "Email Marketing Communications; Text Messaging; Chatbots and Artificial Intelligence; Changes to Our Privacy Statement; Contact Us; Data Controller and Data ...",
+      "snippet_highlighted_words": [
+        "Chatbots",
+        "Privacy Statement"
+      ],
+      "source": "Newell Brands"
+    },
+    {
+      "position": 82,
+      "title": "Privacy Notice for Users Who Apply or Sign Up for a ...",
+      "link": "https://squareup.com/us/en/legal/general/privacy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://squareup.com/us/en/legal/general/privacy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCJIBEAE",
+      "displayed_link": "https://squareup.com › legal › general › privacy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86148d663f5f770ee32a9ce179e7fe4781d9.png",
+      "date": "Dec 21, 2023",
+      "snippet": "Privacy Notice for Square Sellers and Website Visitors ... To learn more about BugSnag, please visit https://docs.bugsnag.com/legal/privacy-policy ...",
+      "snippet_highlighted_words": [
+        "Privacy Notice",
+        "privacy-policy"
+      ],
+      "source": "Square"
+    },
+    {
+      "position": 83,
+      "title": "Data Protection Notice",
+      "link": "https://www.gea.com/en/info/legal/privacy-policy/index.jsp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gea.com/en/info/legal/privacy-policy/index.jsp&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCI8BEAE",
+      "displayed_link": "https://www.gea.com › info › legal › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614dcadae6f494b827b23248d98c0700abf.png",
+      "snippet": "Where that is the case, personal data will be processed strictly in line with this Data Privacy Notice and in accordance with applicable law. ... Privacy policy ...",
+      "snippet_highlighted_words": [
+        "Privacy Notice",
+        "Privacy policy"
+      ],
+      "source": "GEA – engineering for a better world"
+    },
+    {
+      "position": 84,
+      "title": "privacy policy of AI Chatbot – AI Chat Assistant - Codelio",
+      "link": "https://codelio.fr/privacy-policy-of-ai-chatbot-ai-chat-assistant/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://codelio.fr/privacy-policy-of-ai-chatbot-ai-chat-assistant/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCKkBEAE",
+      "displayed_link": "https://codelio.fr › privacy-policy-of-ai-chatbot-ai-chat-a...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614d7774afd665a43bc8932fe3568da3844.png",
+      "snippet": "This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "codelio.fr"
+    },
+    {
+      "position": 85,
+      "title": "Pre-Built Live Chatbots UK",
+      "link": "https://www.konversable.com/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.konversable.com/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCKcBEAE",
+      "displayed_link": "https://www.konversable.com › privacy-policy",
+      "snippet": "This Privacy Policy describes your rights under the General Data Protection Regulation (GDPR). It sets out how we will use and protect your personal data.",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "Konversable"
+    },
+    {
+      "position": 86,
+      "title": "3 Chatbot Privacy Risks and Concerns You Should Know ...",
+      "link": "https://www.makeuseof.com/chatbot-privacy-risks-concerns-you-should-know-about/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.makeuseof.com/chatbot-privacy-risks-concerns-you-should-know-about/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCKsBEAE",
+      "displayed_link": "https://www.makeuseof.com › Security",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614a9a50e2523237c4b82bacad523311305.png",
+      "date": "Oct 4, 2023",
+      "snippet": "If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used ...",
+      "snippet_highlighted_words": [
+        "chatbot",
+        "privacy policy"
+      ],
+      "source": "MUO"
+    },
+    {
+      "position": 87,
+      "title": "Our Chatbot",
+      "link": "https://www.accesscharity.org.uk/chatbot-information",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.accesscharity.org.uk/chatbot-information&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCKwBEAE",
+      "displayed_link": "https://www.accesscharity.org.uk › chatbot-information",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861492823535412915e53b3700d4a94dd054.png",
+      "snippet": "ASC Chatbot Privacy Notice. This Privacy Notice governs the collection and use of personal information by ASC in relation to the legal chatbot product. This ...",
+      "snippet_highlighted_words": [
+        "Chatbot Privacy Notice",
+        "Privacy Notice",
+        "chatbot"
+      ],
+      "source": "Access Social Care"
+    },
+    {
+      "position": 88,
+      "title": "Chatbot - Privacy - YUBI",
+      "link": "https://www.yubithebot.com/Home/Privacy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yubithebot.com/Home/Privacy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCLIBEAE",
+      "displayed_link": "https://www.yubithebot.com › Home › Privacy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614d8d8270652a63db03069e2fa998124bc.png",
+      "snippet": "This Privacy Policy covers our treatment of personally identifiable information (\"Personal Information\") that we gather when you are accessing or using our ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "yubithebot.com"
+    },
+    {
+      "position": 89,
+      "title": "Privacy Policy",
+      "link": "https://irealities.com/privacy-policy.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://irealities.com/privacy-policy.html&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCMMBEAE",
+      "displayed_link": "https://irealities.com › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86143ad73be8c65369c9ee61139422752019.png",
+      "snippet": "This privacy policy will help you understand how 'iRealities Technology Pvt Ltd' uses and protects the data you provide to us when you visit and use our ...",
+      "snippet_highlighted_words": [
+        "privacy policy"
+      ],
+      "source": "iRealities"
+    },
+    {
+      "position": 90,
+      "title": "Privacy Considerations in Chatbot-based Customer ...",
+      "link": "https://utilitiesone.com/privacy-considerations-in-chatbot-based-customer-support-communication-systems",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://utilitiesone.com/privacy-considerations-in-chatbot-based-customer-support-communication-systems&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCMwBEAE",
+      "displayed_link": "https://utilitiesone.com › privacy-considerations-in-chatb...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861450abe1821fb10d5737911c16de88d326.png",
+      "date": "Oct 25, 2023",
+      "snippet": "Combine it with secure storage practices and restricted access controls to minimize the risk of data breaches. Strict Privacy Policy. Develop a ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "Utilities One"
+    },
+    {
+      "position": 91,
+      "title": "Privacy Policy - MiStr ChatBot",
+      "link": "https://www.mistr-chatbot.de/en/privacy-policy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mistr-chatbot.de/en/privacy-policy/&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCMsBEAE",
+      "displayed_link": "https://www.mistr-chatbot.de › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614824d0b5b1d5d95fa5ca5023ca5100b9f.png",
+      "snippet": "Privacy Policy. 1. An overview of data protection. General information. The following information will provide you with an easy to navigate overview of what ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "mistr-chatbot.de"
+    },
+    {
+      "position": 92,
+      "title": "Privacy Policy - Zetabot",
+      "link": "http://zetabot.co/en/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://zetabot.co/en/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCNABEAE",
+      "displayed_link": "http://zetabot.co › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86147863265e063b719cba3cb44fe00698ba.png",
+      "date": "Aug 17, 2023",
+      "snippet": "We respect your privacy and are committed to protecting it. This privacy policy explains how we collect, use, and protect the information that ...",
+      "snippet_highlighted_words": [
+        "privacy policy"
+      ],
+      "source": "zetabot.co"
+    },
+    {
+      "position": 93,
+      "title": "Cybercrime: be careful what you tell your chatbot helper…",
+      "link": "https://www.theguardian.com/technology/2023/apr/09/cybercrime-chatbot-privacy-security-helper-chatgpt-google-bard-microsoft-bing-chat",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/technology/2023/apr/09/cybercrime-chatbot-privacy-security-helper-chatgpt-google-bard-microsoft-bing-chat&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCMYBEAE",
+      "displayed_link": "https://www.theguardian.com › technology › apr › cyber...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861402051c0002b53894baa52a7ca73037e5.png",
+      "date": "Apr 9, 2023",
+      "snippet": "However, while Google also pledges not to share information with third parties, the tech firm's wider privacy policy allows it to use data for ...",
+      "snippet_highlighted_words": [
+        "privacy policy"
+      ],
+      "source": "The Guardian"
+    },
+    {
+      "position": 94,
+      "title": "Privacy Policy",
+      "link": "http://www.assurant.com/privacypolicy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.assurant.com/privacypolicy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCN0BEAE",
+      "displayed_link": "http://www.assurant.com › privacypolicy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d86148456d00efb47e84a482da534d5ad2e36.png",
+      "snippet": "This Privacy Notice (“Notice”) explains how the legal entity or entities ... See Assurant's Employee Privacy Statement available here for additional information.",
+      "snippet_highlighted_words": [
+        "Privacy Notice",
+        "Privacy Statement"
+      ],
+      "source": "Assurant"
+    },
+    {
+      "position": 95,
+      "title": "ChatBot Privacy Policy",
+      "link": "https://xphotokit.com/ios/chatbot/policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://xphotokit.com/ios/chatbot/policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoFCOABEAE",
+      "displayed_link": "https://xphotokit.com › ios › chatbot › policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861463b1cc0594092dfce70f578c71e04c5a.png",
+      "date": "Oct 30, 2023",
+      "snippet": "Privacy Policy · You can chat freely with the robot, we do not require you to log in or submit any personal information. · We will not save or ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "Google"
+    },
+    {
+      "position": 96,
+      "title": "Premier America Chatbot and Live Chat Cobrowse Service ...",
+      "link": "https://www.premieramerica.com/getmedia/008dd705-cf6f-4742-939b-1a64164b0fca/Chat-Bot-Service-Privacy-Notice.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.premieramerica.com/getmedia/008dd705-cf6f-4742-939b-1a64164b0fca/Chat-Bot-Service-Privacy-Notice.pdf&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECCsQAQ",
+      "displayed_link": "https://www.premieramerica.com › getmedia › Ch...",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614cf32e41f424e53bfe77f104fa5b18d3d.png",
+      "snippet": "This Premier America Chatbot and Live Chat Cobrowse Service Privacy Notice ... eGain's Privacy Policy for more information regarding its use, disclosure and ...",
+      "snippet_highlighted_words": [
+        "Chatbot",
+        "Privacy Notice",
+        "Privacy Policy"
+      ],
+      "source": "Premier America Credit Union"
+    },
+    {
+      "position": 97,
+      "title": "LG Chatbot Privacy Policy",
+      "link": "https://www.lg.com/in/brandstore-nearme/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lg.com/in/brandstore-nearme/privacy-policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECC0QAQ",
+      "displayed_link": "https://www.lg.com › brandstore-nearme › privacy-policy",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d8614f2678f1e20ecb6e319c7643ce3cc0788.png",
+      "snippet": "This LG Chatbot Privacy Policy (the \"Policy\") applies only to the chatbot services controlled by LG Electronics India Pvt. Ltd. and its affiliate call ...",
+      "snippet_highlighted_words": [
+        "Chatbot Privacy Policy",
+        "chatbot"
+      ],
+      "source": "LG Electronics"
+    },
+    {
+      "position": 98,
+      "title": "Gemini Apps Privacy Hub",
+      "link": "https://support.google.com/gemini/answer/13594961?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.google.com/gemini/answer/13594961%3Fhl%3Den&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECC4QAQ",
+      "displayed_link": "https://support.google.com › gemini › answer",
+      "favicon": "https://serpapi.com/searches/65c7a9c92236e290cb6ab08d/images/e5fa5a92572ba80a599d76af1c7d861490a5c28299790900b3e8f7a6782c8035.png",
+      "date": "2 days ago",
+      "snippet": "Gemini Apps Privacy Notice. Last updated: February 8, 2024. Your data and Gemini Apps. This notice and our Privacy Policy describe how Google ...",
+      "snippet_highlighted_words": [
+        "Privacy Notice",
+        "Privacy Policy"
+      ],
+      "source": "Google Help"
+    },
+    {
+      "position": 99,
+      "title": "Privacy Policy - Chatbot",
+      "link": "https://ichatbot.app/home/privacy_policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ichatbot.app/home/privacy_policy&ved=2ahUKEwjP3Jj2naGEAxVAj4kEHQRACgEQFnoECCoQAQ",
+      "displayed_link": "https://ichatbot.app › home › privacy_policy",
+      "snippet": "Privacy Policy. Welcome to https://ichatbot.app/ (the Site).We understand that privacy online is important to users of our Site, especially when conducting ...",
+      "snippet_highlighted_words": [
+        "Privacy Policy"
+      ],
+      "source": "ichatbot.app"
+    }
+  ],
+  "scholarly_articles": {
+    "title": "Scholarly articles for (\"privacy policy\" OR \"privacy statement\" OR \"privacy notice\" ) AND chatbot",
+    "link": "https://scholar.google.ca/scholar?q=(%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+)+AND+chatbot&hl=en&as_sdt=0&as_vis=1&oi=scholart",
+    "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot",
+    "articles": [
+      {
+        "title": "Chatbots: Security, privacy, data protection, and social …",
+        "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.6426",
+        "highlighted_words": [
+          "Chatbots"
+        ],
+        "author": "‎Hasal",
+        "cited_by": "Cited by 88",
+        "extracted_cited_by_number": 88
+      },
+      {
+        "title": "Privacy concerns in Chatbot interactions: When to trust …",
+        "link": "https://arxiv.org/pdf/2107.03959",
+        "highlighted_words": [
+          "Chatbot"
+        ],
+        "author": "‎Belen Saglam",
+        "cited_by": "Cited by 15",
+        "extracted_cited_by_number": 15
+      },
+      {
+        "title": "{PriBots}: Conversational Privacy with Chatbots",
+        "link": "https://www.usenix.org/system/files/conference/soups2016/wfpn16-paper-harkous.pdf",
+        "highlighted_words": [
+          "Chatbots"
+        ],
+        "author": "‎Harkous",
+        "cited_by": "Cited by 80",
+        "extracted_cited_by_number": 80
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&oq=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&hl=en&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&oq=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&hl=en&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&oq=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&hl=en&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&oq=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&hl=en&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&oq=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&hl=en&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&num=100&q=%28%22privacy+policy%22+OR+%22privacy+statement%22+OR+%22privacy+notice%22+%29+AND+chatbot&start=400"
+    }
+  }
+}
